@@ -1,0 +1,10 @@
+#Question
+1. Reverse the string using recursion.
+2. Reverse the number using recursion.
+3. Sort the binary array using recursion.
+4. Write a program for linear search using recursion.
+5. Write a program for Fibonacci series using recursion
+6. Write a program for factorial using recursion.
+7. SUM or SUB Or MUL of array of elements using recursion.
+<-->
+8. Write a program to display the binary array in 0,1,0,1 format
